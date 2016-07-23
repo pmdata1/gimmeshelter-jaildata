@@ -1,3 +1,3 @@
 # Gimme Shelter Jail Data
 
-Point-in-time capture of Hillborough County Sheriff Office booking data.
+1995 through 2015 Point-in-time capture of Hillborough County Sheriff Office jail booking data.
